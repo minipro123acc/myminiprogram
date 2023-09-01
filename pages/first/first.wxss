@@ -1,0 +1,57 @@
+.banner {
+  padding-top: 50rpx;
+}
+
+.banner swiper {
+  height: 500rpx;
+}
+
+.banner swiper swiper-item image {
+  width: 690rpx;
+  height: 500rpx;
+  border-radius: 50rpx;
+}
+
+.about {
+  padding-top: 50rpx 30rpx 80rpx;
+  background-color: #eceaea;
+  width: 100%;
+}
+
+.about .pubtitle {
+  width: 90%;
+  margin-left: 7%;
+}
+
+.about .title {
+  text-align: center;
+  font-size: 70rpx;
+  font-weight: 800;
+  color: gray;
+}
+
+.about .brief {
+  text-align: center;
+  font-size: 60rpx;
+  font-weight: 600;
+  color: rgb(44, 43, 43);
+}
+
+.about .text {
+  font-size: 40rpx;
+  white-space: pre-wrap;
+}
+
+.about .brief-text {
+  padding-top: 40rpx;
+}
+
+.about .last {
+  padding-top: 200rpx;
+  font-size: 45rpx;
+}
+.line{
+  height: 5rpx;
+  width: 100%;
+  background-color: gray;
+}

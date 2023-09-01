@@ -1,0 +1,18 @@
+<!--pages/demo1/demo1.wxml-->
+<image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/中岛敦大图.jpg" mode="aspectFill"></image>
+<view class="img2">      中岛敦是在《文豪野犬》中登场的主人公，男主角，孤儿院出身，有些自卑，但对待身边的人很温柔，在紧急关头，即使牺牲自己也要守护别人，而且会做大胆的行为。
+\n\n\n\n<view class="img3">生日               5月5日
+年龄               18岁
+虚拟人物血型  AB型
+身高              170 cm
+体重              55 kg
+座右铭           只要能活着不就挺好的么
+喜欢的东西    茶泡饭、猫、变色龙、横滨
+讨厌的东西    自己、以前待过的孤儿院
+讨厌的人      芥川龙之介
+别名             人虎、敦君</view>
+<navigator url="">
+\n\t\t异能力「月下兽」</navigator>
+<view>能够变身为白虎，但自己无法控制能力。变成半人半虎时能控制。
+\t来源：中岛敦作品《山月记》</view>
+  </view>

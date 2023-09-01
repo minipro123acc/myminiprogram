@@ -1,0 +1,38 @@
+<!--pages/second-web/second-web.wxml-->
+<view class="img9"><view class="img7"><navigator url="../index/index">    主要角色（第一页）/</navigator><span class="img8">/主要剧情（第二页）</span></view></view>
+<view style="opacity: 50%;"><image class="img3" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/第一季.jpg" mode="aspectFill"></image></view>
+<view style="opacity: 50%;"><image class="img4" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/第二季.jpg" mode="aspectFill"></image></view>
+<view style="opacity: 50%;"><image class="img5" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/第三季.jpg" mode="aspectFill"></image></view>
+<view style="opacity: 50%;"><image class="img6" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/第四季.jpg" mode="aspectFill"></image></view>
+<view class="img1"><view class="ig3"><view class="img2">正篇（#1—#12、#17—#25）</view>
+\n被孤儿院赶出、濒临饿死边缘的少年·中岛敦与一群风格奇异的男人们相遇了——
+热衷于大白天跳水自杀、有着自杀嗜好的男子·太宰治。
+总是神经质地翻阅手帐的、戴着眼镜的男子·国木田独步。
+他们是、能解决连军队和警察都束手无策的怪异事件的“武装侦探社”的成员。
+因为某种原因，敦被要求一起同行去击退使街道巷尾都骚动不已的“食人虎”……
+架空的都市 横滨。怀有文豪之名的人物、登场。借此之名各类异形的力量如火花四散。
+千奇百怪的文豪异能力战斗，在这里开幕！</view>
+\n<view class="ig1"><view class="img2">黑之时代篇（#13—#16）</view>
+\n拥有非同常人的“异能”之力，盘踞于横滨黑社会的恶徒，其名为“港口黑手党”。
+最年少干部·太宰治、最下级成员·织田作之助、秘密情报员·坂口安吾。
+身在看重阶级的组织中，却跨越了立场相交的3人，今夜也在微暗的酒吧吧台并肩畅饮。
+直到，其中一人断绝消息的那一天……
+男人为了追求什么而成为黑手党，又是失去了什么而与之诀别？
+代替不去敞开胸怀的他们所书写下的一页写真。
+书写下，黑之时代，在黑暗中闪光的“某物”。
+这是，太宰治加入“武装侦探社”之前的故事——</view>
+\n<view class="ig2"><view class="img2">十五岁篇（#26—#28）</view>
+\n“武装侦探社”和“港口黑手党”拥有能使用非常人的“异能”之力的使用者。现在的横滨，两个组组展开着激烈交锋。
+追溯至七年前——
+港口黑手党的首领·森鸥外听到了烦人的谣言。据说本已吊丧的前任首领在港区附近的贫民窟现身。十五岁的太宰治被命令去调查，这是他的首次任务。
+太宰来到了贫民窟，遇到了和港口黑手党敌对的反势力“羊”的老大·中原中也。神兽让怨恨的亡者从地狱复苏，隐藏于愤怒的火焰之中，无法说出的真相是……？
+后来，还没有对上名字，年轻的原石们就轰动了黑社会。无垢的羊为何要沾染黑暗？
+这是“双黑”开始的故事。</view>
+<view class="ig4"><view class="img2">正篇（#29—）</view>
+\n白虎与黑兽——中岛敦与芥川龙之介并肩作战，在与弗朗西斯·F的决战中得胜，与自大国袭来的“组合（Guild）”之间的巨大异能战争宣告结束。
+“武装侦探社”与“港口黑手党”在此战中缔结的休战协定仍在继续，而从他们引发的毁灭危机中幸存下来的横滨，今天也在路边上演名为日常的故事。
+但海外犯罪组织流入的传言，以及“组合（Guild）”残党的影子仍在此地若隐若现……
+另一方面，太宰治对于“魔人”觉醒、新的灾厄开始感到担忧。
+在暗渠中蠢蠢欲动的，是盗贼团“死屋之鼠”的头目，费奥多尔·D。其令人恐惧的谋略，终于露出獠牙！</view>\n\n\n\n\n
+<view>\n\n\n\n\n\n\n\n\n\n\n\n\t|~~~已经到底了，没有其他数据了哦~~~|</view>\n\n\n\n\n\n\n
+<navigator url="../mp4/mp4">恭喜你发现宝藏，点击可提前观看文豪野犬第五季~</navigator></view>

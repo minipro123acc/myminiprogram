@@ -1,0 +1,17 @@
+/* pages/demo4/demo4.wxss */
+/* pages/demo3/demo3.wxss */
+.img1{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  color: white;
+}
+.img2{
+  position: absolute;
+  margin: auto;
+  white-space:pre-wrap;
+  font-size: 20px;
+}
+.img3{
+  font-size: 18px;
+}

@@ -1,0 +1,40 @@
+<!--index.wxml-->
+<view class="container">
+<view class="img5"><navigator url="../index/index">主要角色（第一页）/</navigator><span class="img6">/主要剧情（第二页）</span></view>
+<view class="img7"><view class="img3">
+主要角色
+</view>
+<view class="img4">点击头像进入详细介绍</view></view>
+<view class="ig1">\|===武装侦探社===|/</view>
+<navigator url="../demo1/demo1"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/中岛敦头像.jpg"></image></view></navigator>
+<view class="img2">中岛敦
+<view>异能力「月下兽」</view></view>
+<navigator url="../demo2/demo2"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/download.jpg"></image></view></navigator>
+<view class="img2">太宰治
+<view>异能力「人间失格」</view></view>
+<navigator url="../demo3/demo3"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/国木田头像.jpg"></image></view></navigator>
+<view class="img2">国木田独步
+<view>异能力「独步吟客」</view></view>
+<navigator url="../demo4/demo4"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/江户川乱步头像.jpg"></image></view></navigator>
+<view class="img2">江户川乱步
+<view>超才能「超推理」</view></view>
+<navigator url="../demo5/demo5"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/谷崎润一郎头像.jpg"></image></view></navigator>
+<view class="img2">谷崎润一郎
+<view>异能力「细雪」</view></view>
+<navigator url="../demo6/demo6"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/与谢野晶子头像.jpg"></image></view></navigator>
+<view class="img2">与谢野晶子
+<view>异能力「请君勿死」</view></view>
+<navigator url="../demo7/demo7"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/宫泽贤治头像.jpg"></image></view></navigator>
+<view class="img2">宫泽贤治
+<view>异能力「无畏惧雨」</view></view>
+<navigator url="../demo8/demo8"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/福泽谕吉头像.jpg"></image></view></navigator>
+<view class="img2">福泽谕吉
+<view>异能力「人上人不造」</view></view>
+<navigator url="../demo9/demo9"><view class="background1"><image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/泉镜花头像.jpg"></image></view></navigator>
+<view class="img2">泉镜花
+<view>异能力「夜叉白雪」</view></view>
+
+
+
+
+</view>

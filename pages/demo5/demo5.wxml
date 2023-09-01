@@ -1,0 +1,19 @@
+<!--pages/demo5/demo5.wxml-->
+<image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/谷崎润大图.jpg" mode="aspectFill"></image>
+<view class="img2">    
+\n谷崎润一郎，男，是漫画《文豪野犬》中的角色，武装侦探社成员，温柔的青年，但是极端妹控，如果是涉及到妹妹的问题就绝不会让步。在侦探社做任务记录、收集情报、跟踪监视等工作，加入侦探社之前是学生。
+  \n\n<view class="img3">生日               7月24日
+年龄               18岁
+虚拟人物血型  A型
+身高              174 cm
+体重              59 kg
+喜欢的东西    海鳗、中华料理、猫
+讨厌的东西   地震
+最珍爱的人      谷崎直美
+</view>
+<navigator url="">
+\n\n\t\t异能力「细雪」</navigator>
+<view>   像屏幕一样在空间里投影幻象的能力。
+\t来源：谷崎润一郎代表作《细雪》</view>
+  </view>
+

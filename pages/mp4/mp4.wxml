@@ -1,0 +1,2 @@
+<!--pages/mp4/mp4.wxml-->
+<video src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/up.mp4" class="mp4" autoplay></video>

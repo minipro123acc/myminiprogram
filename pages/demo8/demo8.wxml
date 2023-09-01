@@ -1,0 +1,19 @@
+<!--pages/demo8/demo8.wxml-->
+<image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/福泽谕吉大图.jpg" mode="aspectFill"></image>
+<view class="img2">    
+\n福泽谕吉，男，武装侦探社的社长，前保镖，国木田的武道老师，威严的中年人，剑术及格斗能力高超，受到侦探社成员的崇敬。曾被称为“孤剑客【银狼】”。参与了夏目漱石的【三刻构想】
+  \n\n<view class="img3">生日               1月10日
+年龄               45岁
+虚拟人物血型  B型
+身高              186cm
+体重              71 kg
+喜欢的东西    猫咪、牛肉锅、酒类、平等
+讨厌的东西   封建制度
+</view>
+<navigator url="">
+\n\n\t\t异能力「人上人不造」</navigator>
+<view>   只能对自己的部下，也就是侦探社社员，发动。效果是使他们获得“调整异能的力量，使之能受控制”的抑制力量。
+\t来源：福泽谕吉作品《劝学篇》</view>
+  </view>
+
+

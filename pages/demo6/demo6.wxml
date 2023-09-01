@@ -1,0 +1,19 @@
+<!--pages/demo6/demo6.wxml-->
+<!--pages/demo5/demo5.wxml-->
+<image class="img1" src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/与谢野晶子大图.jpg" mode="aspectFill"></image>
+<view class="img2">    
+\n与谢野晶子，女，主要人物之一，武装侦探社成员，侦探社的专属医生，相当少见的治愈能力者。
+  \n\n<view class="img3">生日               12月7日
+年龄               25岁
+虚拟人物血型  O型
+身高              166cm
+体重              52 kg
+喜欢的东西    花、和式点心、鳗鱼、酒
+讨厌的东西   男尊女卑、弱小的男人
+害怕的人      森鸥外
+</view>
+<navigator url="">
+\n\n\t\t异能力「请君勿死」</navigator>
+<view>   即使在异能中也很少见的治愈能力，但是因为只能治好濒死的人，所以在治疗前必须先把对方弄得半死，时常在身边带着柴刀以便使用能力。。
+\t来源：与谢野晶子诗作《君死给勿》原诗中“君死给勿”的正式中译名为“请君勿死”）</view>
+  </view>

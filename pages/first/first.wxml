@@ -1,0 +1,79 @@
+<!--pages/first/first.wxml-->
+<xzs-header></xzs-header>
+<view class="banner">
+   <swiper
+    previous-margin="30rpx"
+    circular
+    autoplay
+    interval="3000" 
+    indicator-dots
+    indicator-active-color="#BDA066"
+   >
+     <swiper-item><image src="/pages/pictures/第一季.jpg" mode=""/></swiper-item>
+     <swiper-item><image src="/pages/pictures/第二季.jpg" mode=""/></swiper-item>
+     <swiper-item><image src="/pages/pictures/第三季.jpg" mode=""/></swiper-item>
+     <swiper-item><image src="/pages/pictures/第四季.jpg" mode=""/></swiper-item>
+   </swiper>
+</view>
+<view class="about">
+  <view class="pubtitle">
+    <view class="brief-text">
+    <view class="title">《 文 豪 野 犬 》</view>
+    <view class="brief"><view class="line"></view>|--简介--|</view>
+      <view class="text"><view>  电视动画片系列《文豪野犬》改编自朝雾卡夫卡原作，春河35负责作画的同名漫画。于2016年3月27日，官方举办了动画第1话先行上映会。</view>
+<view>  
+ 该系列第1季于2016年4月7日起播出 ；第2季于2016年10月6日起开播，中国大陆由PPTV独家正版发布,全24话 ，OVA第25话收录于原作漫画第13卷，于2017年8月4日发售 ；第3季于2019年4月12日播出；第4季于2023年1月4日播出 。</view>
+
+ <view class="brief"><view class="line"></view>|--人物设定--|</view>
+<view>作品讲述了在架空都市横滨，名为中岛敦的少年在被孤儿院驱逐后，在鬼使神差之下加入异能社团“武装侦探社”，认识了一群拥有文豪之名和特殊能力的伙伴，从而开启了一段在人类世界与异能力世界徘徊的旅程。作品中涉及的角色，如太宰治、芥川龙之介、中岛敦都是由日本著名文豪虚拟角色化而来，也同时保留了各“文豪”作品中的角色相应的特殊能力。</view>
+<view class="brief"><view class="line"></view>|--异能力--|</view>
+ <view>简单来说可以理解为超能力，拥有异能力的人被称为「异能者」，异能者并不少见。
+漫画中出场的文豪能力均与其人物原型的文学创作有关。</view>
+<view class="brief"><view class="line"></view>|--武装侦探社--|</view>
+<view>简称武侦社，为了专门处理不能指望军队或警察的危险事务而成立的侦探集团，被称为生存于白昼世界与黑夜世界的夹缝之中，黄昏的武装集团，其成员大部分是拥有异能力的能力者。
+
+武装侦探社最初成立之时，夏目漱石曾为武侦社获得异能开业许可证做出了巨大贡献。
+
+武装侦探社事务所位于一栋老旧办公楼的四层，同建筑中一层为咖啡厅，二层为律师事务所，三层为空层，五层用来储藏杂物。隔壁有一家下村陶器店。
+
+武装侦探社成立前曾使用名为晚香堂的讲堂作为据点。晚香堂位于地铁废弃岔路的深处，位置十分隐蔽，讲堂黑板上方悬挂有夏目漱石的题字“不拘义理，不拘人情，不拘廉耻”</view>
+<view class="brief"><view class="line"></view>|--港口黑手党--|</view>
+<view>早期汉化中译做“港口黑帮”或“黑帮”，或有“黑帮”与“黑手党”等名称混杂出现的情况，约自第6话开始统称为“黑手党”或“港口黑手党”。
+
+以港口为势力范围的凶恶组织，是比黑社会的暗部更加阴暗危险的群体。已知内部成员级别森严，有专门关押犯人的地牢，对待叛徒有独特的处理方式。
+
+最高决策机构为“五大干部会议”，会议数年召开一次，负责决定组织内部的重大事项。
+
+其中有一支即使在武斗派中也称得上凶暴的行动部队“黑蜥蜴”，据传拥有如特种部队般的格斗术，而且残酷到恐怖。
+
+另有一支直属黑手党首领的游击部队，由芥川龙之介领导。
+
+此外在尾崎红叶手下还有一支专业的拷问小队。</view>
+<view class="brief"><view class="line"></view>|--组合（Guild）--|</view>
+<view>北美的能力者集团，都市传说般的存在，其成员表面上都是财政界与军事要员，私下则拥有庞大资金且身负异能，是个策划了众多阴谋的秘密组织。
+
+团长为弗朗西斯·斯科特·基·菲茨杰拉德。
+
+在白鲸一战之后内部人员流失与分裂，变成以菲茨杰拉德和约翰为首的两股临时势力。</view>
+
+</view>
+<view class="line"></view>
+<view class="last"><view>原作：朝雾卡夫卡·春河35（漫画）</view>
+<view>监督：五十岚卓哉</view>
+<view>总编剧、剧本：榎户洋司\n</view>
+<view>角色设计：新井伸浩\n</view>
+<view>总作画监督：新井伸浩、菅野宏纪\n</view>
+<view>枪械设计：片贝文洋\n</view>
+<view>道具设计、辅助角色设计：平田亮\n</view>
+<view>美术监督：近藤由美子\n</view>
+<view>色彩设计：后藤由香里\n</view>
+<view>撮影监督：神林刚\n</view>
+<view>编辑：西山茂\n</view>
+<view>音乐：岩崎琢\n</view>
+<view>音响监督：若林和弘\n</view>
+<view>音响制作：Glovision\n</view>
+<view>动画制作：BONES\n</view>
+<view>制作：《文豪野犬》制作委员会</view></view>
+    </view>
+  </view>
+</view>

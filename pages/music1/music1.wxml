@@ -1,0 +1,30 @@
+<view class="tab">
+  <view class="banner">
+   <swiper
+    previous-margin="30rpx"
+    circular
+    autoplay
+    interval="3000" 
+    indicator-dots
+    indicator-active-color="#BDA066"
+   >
+     <swiper-item><image src="/pages/pictures/第一季.jpg" mode=""/></swiper-item>
+     <swiper-item><image src="/pages/pictures/第二季.jpg" mode=""/></swiper-item>
+     <swiper-item><image src="/pages/pictures/第三季.jpg" mode=""/></swiper-item>
+     <swiper-item><image src="/pages/pictures/第四季.jpg" mode=""/></swiper-item>
+   </swiper>
+</view>
+  </view>
+
+  <button class="button">播放全部</button>
+
+<view class="back1"><video src="https://mp-285428ba-0ff0-4848-8e91-cb744e2bb910.cdn.bspapp.com/Kyle Xian - TRASH CANDY（文豪野犬 OP）.mp3" class="mp3-1"></video></view>
+<view class="musiclist">
+  <view class="list">
+    <view class="info">
+      <view class="title">歌名</view>
+      <view class="name">名字</view>
+     <view class="picture"><image src="">图片</image></view> 
+    </view>
+  </view>
+</view>

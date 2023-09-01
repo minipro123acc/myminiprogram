@@ -1,0 +1,69 @@
+/* pages/second-web/second-web.wxss */
+.img1{
+  font-size: 1em;
+  white-space: pre-wrap;
+  position: absolute;
+  color:black;
+}
+.img2{
+  font-size: 1.4em;
+  color: brown;
+  position: absolute;
+}
+.img3{
+  position: absolute;
+  width: 100%;
+  height: 47%;
+}
+.img4{
+  position: absolute;
+  width: 100%;
+  margin-top: 600rpx;
+  height:48%;
+}
+.img5{
+  position: absolute;
+  width: 100%;
+  margin-top: 1220rpx;
+  height: 54%;
+}
+.img6{
+  position: absolute;
+  width: 100%;
+  margin-top: 1920rpx;
+  height: 54%;
+}
+.img8{
+  margin-left: 260rpx;
+  color: #aaa;
+  margin-top: -200rpx;
+}
+.img7{
+  color: blue;
+  margin-left: 100rpx;
+  
+}
+.img9{
+  background-color: darkslategrey;
+}
+.img{
+  color:cyan;
+  
+}
+.ig1{
+  height: 520rpx;
+}
+.ig2{
+  height: 680rpx;
+}
+.ig3{
+  height: 550rpx;
+}
+.ig4{
+  height: 620rpx;
+}
+.img10{
+  text-align: center;
+  background-color: aqua;
+  color: blue;
+}

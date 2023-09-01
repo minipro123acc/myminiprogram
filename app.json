@@ -1,0 +1,48 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/demo1/demo1",
+    "pages/second-web/second-web",
+    "pages/demo2/demo2",
+    "pages/demo3/demo3" ,
+    "pages/demo4/demo4",
+    "pages/demo5/demo5",
+    "pages/demo6/demo6",
+    "pages/demo7/demo7",
+    "pages/music1/music1",
+    "pages/music2/music2",
+    "pages/first/first",
+    "pages/mp4/mp4",
+    "pages/demo8/demo8",
+    "pages/demo9/demo9"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#78c0fd",
+    "navigationBarTitleText": "文豪野犬武装侦探社",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar":{
+    "list":[
+      {
+        "text":"首页",
+        "pagePath":"pages/first/first"
+      },{
+        "text":"人物",
+        "pagePath":"pages/index/index"
+      },{
+        "text":"剧情",
+        "pagePath":"pages/second-web/second-web"
+      },{
+        "text":"音乐",
+        "pagePath":"pages/music1/music1"
+      }
+    ]
+  },
+  "usingComponents": {
+    "wenhao.header":"components/wenhao.header/wenhao.header"
+  }
+}
