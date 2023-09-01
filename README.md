@@ -1,2 +1,2 @@
 # myminiprogram
-wx小程序，新手试用的
+wx小程序，我是新手，试用的
